@@ -1,0 +1,15 @@
+.readme.txt.swo
+.readme.txt.swp
+logs
+assets/images
+coreapp/appconfig.php
+coreapp/dbconfig.php
+apps/user/ldaplogin.php
+coreapp/config.app.php
+coreapp/config.db.php
+.htaccess
+assets/config.application.js
+assets/applicationjs/config.application.js
+assets/files
+assets/css/foundation.css~
+apps/temp/
